@@ -1,1 +1,1 @@
-Code for AAAI 2021 long paper **Learning from Crowds by Modeling Common Confusions*.
+Code for AAAI 2021 long paper **Learning from Crowds by Modeling Common Confusions**.
