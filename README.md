@@ -6,7 +6,7 @@ Code for AAAI 2021 long paper **Learning from Crowds by Modeling Common Confusio
 * PyTorch 1.2.0
 
 ## Datasets
-Download the real-world dataset [LabelMe](http://fprodrigues.com//deep_LabelMe.tar.gz) and [Music](http://fprodrigues.com//mturk-datasets.tar.gz). Please use the pretrained features in the *prepared* folder. 
+Download the real-world dataset [LabelMe](http://fprodrigues.com//deep_LabelMe.tar.gz) and [Music](http://fprodrigues.com//mturk-datasets.tar.gz). Please use the pretrained features in the *prepared* folder and put them into the *data* folder. 
 
 ## Usage
 Run the model with default settings
