@@ -17,5 +17,10 @@ python main.py
 ## Citation
 Please cite our work if you find it useful to your research
  ```
- TBD
+@article{chu2020learning,
+  title={Learning from Crowds by Modeling Common Confusions},
+  author={Chu, Zhendong and Ma, Jing and Wang, Hongning},
+  journal={arXiv preprint arXiv:2012.13052},
+  year={2020}
+}
  ```
